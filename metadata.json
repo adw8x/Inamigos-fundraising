@@ -1,0 +1,6 @@
+{
+  "name": "NayePankh Foundation",
+  "description": "A responsive NGO awareness platform for NayePankh Foundation — Giving Wings to the Underprivileged.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
